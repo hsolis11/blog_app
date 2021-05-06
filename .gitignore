@@ -1,6 +1,7 @@
 *
 
 !.gitignore
+!requirements.txt
 !README.md
 !run.py
 !/blog_app/
