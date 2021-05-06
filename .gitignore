@@ -1,0 +1,14 @@
+*
+
+!.gitignore
+!README.md
+!run.py
+!/blog_app/
+!/blog_app/*.py
+!/blog_app/*.db
+!/blog_app/templates/
+!/blog_app/templates/*.html
+!/blog_app/static/
+!/blog_app/static/styles/
+!/blog_app/static/styles/*.css
+
